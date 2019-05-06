@@ -13,15 +13,14 @@
       ab ac ad af ag al an ap ar as at-=ad &#65306;&#34920;&#31034;&#8220;&#26397; &#21521; &#21435; &#25110;&#32773;&#24369;&#21270;&#20026;&#24378;&#35843;&#8221;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1556978379684" ID="ID_374862760" MODIFIED="1556978385310" TEXT="abandon">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1556978531589" FOLDED="true" ID="ID_1676807645" MODIFIED="1556978559978" TEXT="abide">
+<node COLOR="#00b439" CREATED="1556978531589" FOLDED="true" ID="ID_1676807645" MODIFIED="1557050184783" TEXT="abide">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1556978536367" ID="ID_991956502" MODIFIED="1556978555839" TEXT="-bide &#x8bf7;&#x6c42; &#x8981;&#x6c42; &#x7948;&#x6c42;">
@@ -67,7 +66,7 @@
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1556979261755" FOLDED="true" ID="ID_19834250" MODIFIED="1556979296630" TEXT="campaign">
+<node COLOR="#00b439" CREATED="1556979261755" FOLDED="true" ID="ID_19834250" MODIFIED="1557036258760" TEXT="campaign">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1556979267919" ID="ID_1354531326" MODIFIED="1556979294681" TEXT="camp=&#x8425;&#x5730; aign &#x540d;&#x8bcd;&#x540e;&#x7f00;">
@@ -90,7 +89,7 @@
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1556979490417" FOLDED="true" ID="ID_1438272954" MODIFIED="1556979503579" TEXT="dazzle">
+<node COLOR="#00b439" CREATED="1556979490417" FOLDED="true" ID="ID_1438272954" MODIFIED="1557050115128" TEXT="dazzle">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1556979494999" ID="ID_198425197" MODIFIED="1556979501766" TEXT="daze &#x8868;&#x793a;&#x53d1;&#x6655;&#x7684;">
@@ -108,7 +107,7 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556979952679" FOLDED="true" ID="ID_298180122" MODIFIED="1556981492104" TEXT="decorate">
+<node COLOR="#00b439" CREATED="1556979952679" FOLDED="true" ID="ID_298180122" MODIFIED="1557109361939" TEXT="decorate">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1556980079972" ID="ID_1873594194" MODIFIED="1556980085441" TEXT="decor &#x8868;&#x793a;&#x9648;&#x8bbe;">
@@ -158,8 +157,7 @@
       bas base- &#65306;= low foundation &#34920;&#31034;&#20302;&#19979; &#22522;&#30784;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1556979032546" ID="ID_1224920462" MODIFIED="1556979034374" TEXT="base">
@@ -189,8 +187,7 @@
       &#20080;&#21334;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1556979631824" ID="ID_176224590" MODIFIED="1556979634199" TEXT="deal">
@@ -212,13 +209,15 @@
       de-&#21152;&#24378;&#160;&#160;ci-&#20999;&#26432;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1556979853729" ID="ID_1945888729" MODIFIED="1556979860527" TEXT="decide">
+<node COLOR="#00b439" CREATED="1556979853729" FOLDED="true" ID="ID_1945888729" MODIFIED="1557032675870" TEXT="decide">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1557032669604" ID="ID_1009319959" MODIFIED="1557032674589" TEXT="de &#x52a8;&#x8bcd;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
 </node>
 <node COLOR="#00b439" CREATED="1556979860943" ID="ID_842398398" MODIFIED="1556979864084" TEXT="decision">
 <edge STYLE="bezier" WIDTH="thin"/>
@@ -239,8 +238,7 @@
       eco &#34920;&#31034;&#8220;&#23478;&#8221; nom&#34920;&#31034; law&#160;&#160;&#27861;&#21017;&#160;&#160;&#24341;&#30003;&#31649;&#29702; &#31649;&#29702;&#23478;&#30340;&#27861;&#21017; &#32463;&#27982;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1556980272414" ID="ID_490097044" MODIFIED="1556980280978" TEXT="economic">
@@ -270,8 +268,7 @@
       &#25945;&#32946;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1556980374024" ID="ID_50125780" MODIFIED="1556980377814" TEXT="educate">
@@ -283,7 +280,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1556980477836" ID="ID_1812715556" MODIFIED="1556980504278" POSITION="left" TEXT="ef">
+<node COLOR="#0033ff" CREATED="1556980477836" ID="ID_1812715556" MODIFIED="1557078260350" POSITION="left" TEXT="ef">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -297,7 +294,7 @@
 </richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1556980508186" FOLDED="true" ID="ID_1107475866" MODIFIED="1556980555877" TEXT="effect">
+<node COLOR="#00b439" CREATED="1556980508186" FOLDED="true" ID="ID_1107475866" MODIFIED="1557034604379" TEXT="effect">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1556980550153" ID="ID_246365995" MODIFIED="1556980554450" TEXT="fect &#x8868;&#x793a; &#x505a;">
@@ -316,7 +313,7 @@
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1556980602904" FOLDED="true" ID="ID_1543801514" MODIFIED="1556980628618" TEXT="effort">
+<node COLOR="#00b439" CREATED="1556980602904" FOLDED="true" ID="ID_1543801514" MODIFIED="1557034797947" TEXT="effort">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1556980607900" ID="ID_56349852" MODIFIED="1556980627216" TEXT="&#x5f3a;&#x5927; &#x529b;&#x91cf; fort">
@@ -334,13 +331,15 @@
       &#21046;&#20316; = make
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1556980708782" ID="ID_1826336931" MODIFIED="1556980711688" TEXT="fabric">
+<node COLOR="#00b439" CREATED="1556980708782" FOLDED="true" ID="ID_1826336931" MODIFIED="1557032903784" TEXT="fabric">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1557032898377" ID="ID_744927453" MODIFIED="1557032902082" TEXT="ic&#x8868;&#x540d;&#x8bcd;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
 </node>
 <node COLOR="#00b439" CREATED="1556980712453" ID="ID_926625909" MODIFIED="1556980716830" TEXT="fabricate">
 <edge STYLE="bezier" WIDTH="thin"/>
@@ -357,8 +356,7 @@
       &#29359;&#38169;&#35823; &#27450;&#39575;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1556980814265" ID="ID_637319426" MODIFIED="1556980816281" TEXT="fail">
@@ -383,8 +381,7 @@
       &#34920;&#31034;&#33410;&#26085;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1556980915192" ID="ID_1511710362" MODIFIED="1556980917927" TEXT="fair">
@@ -422,8 +419,7 @@
       gen gener genit genesis &#65306;=brith &#34920;&#31034;&#8220;&#20986;&#29983; &#20135;&#29983;&#8221;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1556981228099" ID="ID_1639740807" MODIFIED="1556981232834" TEXT="gene">
@@ -439,7 +435,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1556981280903" ID="ID_758437339" MODIFIED="1556981304199" POSITION="left" TEXT="habit">
+<node COLOR="#0033ff" CREATED="1556981280903" ID="ID_758437339" MODIFIED="1557050071115" POSITION="left" TEXT="habit">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -449,8 +445,7 @@
       &#23621;&#20303;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1556981309733" ID="ID_1767856599" MODIFIED="1556981313812" TEXT="habit">
@@ -485,10 +480,6 @@
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-</node>
-<node COLOR="#0033ff" CREATED="1556981505509" ID="ID_753420542" MODIFIED="1556981550236" POSITION="right" TEXT="show">
-<edge STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
 </node>
 <node COLOR="#0033ff" CREATED="1556981550914" ID="ID_1804496188" MODIFIED="1556981552367" POSITION="left" TEXT="show">
 <edge STYLE="sharp_bezier" WIDTH="8"/>

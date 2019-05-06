@@ -94,25 +94,28 @@
 </html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1556798917741" ID="ID_1302045376" MODIFIED="1556966452354" TEXT="identical">
+<node COLOR="#00b439" CREATED="1556798917741" ID="ID_1302045376" MODIFIED="1557031674096" TEXT="identical">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556798930801" ID="ID_641415880" MODIFIED="1556966452354" TEXT="identify">
+<node COLOR="#00b439" CREATED="1556798930801" ID="ID_641415880" MODIFIED="1557031674096" TEXT="identify">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556799077979" FOLDED="true" ID="ID_1947643558" MODIFIED="1556966452354" TEXT="identity">
+<node COLOR="#00b439" CREATED="1556799077979" FOLDED="true" ID="ID_1947643558" MODIFIED="1557031674096" TEXT="identity">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -121,9 +124,10 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556800409980" ID="ID_1758894013" MODIFIED="1556966452354" TEXT="identification">
+<node COLOR="#00b439" CREATED="1556800409980" ID="ID_1758894013" MODIFIED="1557031674096" TEXT="identification">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -143,25 +147,28 @@
 </html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1556799743904" ID="ID_1521171651" MODIFIED="1556966581014" TEXT="journal">
+<node COLOR="#00b439" CREATED="1556799743904" ID="ID_1521171651" MODIFIED="1557031674096" TEXT="journal">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556799791461" ID="ID_708642044" MODIFIED="1556966581014" TEXT="journalist">
+<node COLOR="#00b439" CREATED="1556799791461" ID="ID_708642044" MODIFIED="1557031674096" TEXT="journalist">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556799819868" ID="ID_1813118293" MODIFIED="1556966581014" TEXT="journey">
+<node COLOR="#00b439" CREATED="1556799819868" ID="ID_1813118293" MODIFIED="1557031674096" TEXT="journey">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -181,17 +188,19 @@
 </html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1556800277783" ID="ID_1768094953" MODIFIED="1556966416108" TEXT="judge">
+<node COLOR="#00b439" CREATED="1556800277783" ID="ID_1768094953" MODIFIED="1557031674096" TEXT="judge">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556800677799" FOLDED="true" ID="ID_1813467498" MODIFIED="1556966416108" TEXT="judgement">
+<node COLOR="#00b439" CREATED="1556800677799" FOLDED="true" ID="ID_1813467498" MODIFIED="1557031674096" TEXT="judgement">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -200,25 +209,28 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556800689574" ID="ID_236836814" MODIFIED="1556966416108" TEXT="judgment">
+<node COLOR="#00b439" CREATED="1556800689574" ID="ID_236836814" MODIFIED="1557031674096" TEXT="judgment">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556801058354" ID="ID_1599008987" MODIFIED="1556966416108" TEXT="judicial">
+<node COLOR="#00b439" CREATED="1556801058354" ID="ID_1599008987" MODIFIED="1557031674096" TEXT="judicial">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556801064492" FOLDED="true" ID="ID_1434987331" MODIFIED="1556966416108" TEXT="jure">
+<node COLOR="#00b439" CREATED="1556801064492" FOLDED="true" ID="ID_1434987331" MODIFIED="1557031674096" TEXT="jure">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -227,9 +239,10 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556802660878" ID="ID_1892266932" MODIFIED="1556966416108" TEXT="law">
+<node COLOR="#00b439" CREATED="1556802660878" ID="ID_1892266932" MODIFIED="1557031674096" TEXT="law">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -249,27 +262,30 @@
 </html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1556801820321" ID="ID_453230062" MODIFIED="1556966574259" TEXT="justice">
+<node COLOR="#00b439" CREATED="1556801820321" ID="ID_453230062" MODIFIED="1557031674096" TEXT="justice">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_cancel"/>
 <icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556801877045" ID="ID_1033635154" MODIFIED="1556966574268" TEXT="justify">
+<node COLOR="#00b439" CREATED="1556801877045" ID="ID_1033635154" MODIFIED="1557031674096" TEXT="justify">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556801907085" ID="ID_95125548" MODIFIED="1556966574268" TEXT="justification">
+<node COLOR="#00b439" CREATED="1556801907085" ID="ID_95125548" MODIFIED="1557031674096" TEXT="justification">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_cancel"/>
 <icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
@@ -277,25 +293,28 @@
 <node COLOR="#0033ff" CREATED="1556802097574" ID="ID_1836743576" MODIFIED="1556802101329" POSITION="right" TEXT="k">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1556802103767" ID="ID_698186306" MODIFIED="1556966280778" TEXT="key">
+<node COLOR="#00b439" CREATED="1556802103767" ID="ID_698186306" MODIFIED="1557031674096" TEXT="key">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556802105388" ID="ID_508555607" MODIFIED="1556966280782" TEXT="knit">
+<node COLOR="#00b439" CREATED="1556802105388" ID="ID_508555607" MODIFIED="1557031674096" TEXT="knit">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556802111158" ID="ID_1228412380" MODIFIED="1556966280782" TEXT="knot">
+<node COLOR="#00b439" CREATED="1556802111158" ID="ID_1228412380" MODIFIED="1557031674096" TEXT="knot">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -305,33 +324,37 @@
 <node COLOR="#0033ff" CREATED="1556802267532" HGAP="94" ID="ID_1834977904" MODIFIED="1556802621657" POSITION="left" TEXT="...." VSHIFT="9">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1556802277132" ID="ID_1043563345" MODIFIED="1556966522327" TEXT="label vt. n.">
+<node COLOR="#00b439" CREATED="1556802277132" ID="ID_1043563345" MODIFIED="1557031674080" TEXT="label vt. n.">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
+<icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556802280632" ID="ID_851052074" MODIFIED="1556966522327" TEXT="lag v.">
+<node COLOR="#00b439" CREATED="1556802280632" ID="ID_851052074" MODIFIED="1557031674096" TEXT="lag v.">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_cancel"/>
 <icon BUILTIN="button_cancel"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
+<icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556802285031" ID="ID_1391854446" MODIFIED="1556966522327" TEXT="largely">
+<node COLOR="#00b439" CREATED="1556802285031" ID="ID_1391854446" MODIFIED="1557031674096" TEXT="largely">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
+<icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556802480602" FOLDED="true" ID="ID_687203347" MODIFIED="1556966522317" TEXT="lateral">
+<node COLOR="#00b439" CREATED="1556802480602" FOLDED="true" ID="ID_687203347" MODIFIED="1557031674080" TEXT="lateral">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -340,9 +363,10 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556802549465" FOLDED="true" ID="ID_641913795" MODIFIED="1556966522317" TEXT="latter">
+<node COLOR="#00b439" CREATED="1556802549465" FOLDED="true" ID="ID_641913795" MODIFIED="1557031674080" TEXT="latter">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -351,41 +375,46 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556803845581" ID="ID_1624813060" MODIFIED="1556966522317" TEXT="make">
+<node COLOR="#00b439" CREATED="1556803845581" ID="ID_1624813060" MODIFIED="1557031674080" TEXT="make">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
+<icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556804036710" ID="ID_1004533065" MODIFIED="1556966522317" TEXT="theme">
+<node COLOR="#00b439" CREATED="1556804036710" ID="ID_1004533065" MODIFIED="1557031674080" TEXT="theme">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
+<icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556804314324" ID="ID_1226029773" MODIFIED="1556966522317" TEXT="therapy">
+<node COLOR="#00b439" CREATED="1556804314324" ID="ID_1226029773" MODIFIED="1557031674080" TEXT="therapy">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_cancel"/>
 <icon BUILTIN="button_cancel"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
+<icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556805971155" ID="ID_656167499" MODIFIED="1556966522317" TEXT="pace">
+<node COLOR="#00b439" CREATED="1556805971155" ID="ID_656167499" MODIFIED="1557031674080" TEXT="pace">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
+<icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556807826121" FOLDED="true" ID="ID_1731721638" MODIFIED="1556966522317" TEXT="scale">
+<node COLOR="#00b439" CREATED="1556807826121" FOLDED="true" ID="ID_1731721638" MODIFIED="1557031674080" TEXT="scale">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -408,9 +437,10 @@
 </html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1556802753534" FOLDED="true" ID="ID_788164459" MODIFIED="1556966097514" TEXT="magnitude">
+<node COLOR="#00b439" CREATED="1556802753534" FOLDED="true" ID="ID_788164459" MODIFIED="1557031674111" TEXT="magnitude">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -419,17 +449,19 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556803004091" ID="ID_55550357" MODIFIED="1556966097514" TEXT="magnify">
+<node COLOR="#00b439" CREATED="1556803004091" ID="ID_55550357" MODIFIED="1557031674111" TEXT="magnify">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556803034035" FOLDED="true" ID="ID_1497325491" MODIFIED="1556966097514" TEXT="magnificent">
+<node COLOR="#00b439" CREATED="1556803034035" FOLDED="true" ID="ID_1497325491" MODIFIED="1557031674096" TEXT="magnificent">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -438,11 +470,12 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556803690900" FOLDED="true" ID="ID_147627674" MODIFIED="1556966097514" TEXT="major">
+<node COLOR="#00b439" CREATED="1556803690900" FOLDED="true" ID="ID_147627674" MODIFIED="1557031674096" TEXT="major">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <node COLOR="#990000" CREATED="1556803708007" ID="ID_232457876" MODIFIED="1556803717867" TEXT="v. &#x4e3b;&#x4fee; &#x4e3b;&#x653b;">
@@ -452,13 +485,14 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556803724345" FOLDED="true" ID="ID_392130820" MODIFIED="1556965712847" TEXT="majority">
+<node COLOR="#00b439" CREATED="1556803724345" FOLDED="true" ID="ID_392130820" MODIFIED="1557031674096" TEXT="majority">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_cancel"/>
 <icon BUILTIN="button_cancel"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_ok"/>
 <node COLOR="#990000" CREATED="1556803761542" ID="ID_1098866524" MODIFIED="1556803776892" TEXT="n. &#x591a;&#x6570;">
 <font NAME="SansSerif" SIZE="14"/>
 </node>
@@ -477,9 +511,10 @@
 </html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1556803397921" FOLDED="true" ID="ID_1228331345" MODIFIED="1556966475707" TEXT="maintain">
+<node COLOR="#00b439" CREATED="1556803397921" FOLDED="true" ID="ID_1228331345" MODIFIED="1557031674080" TEXT="maintain">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -488,9 +523,10 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556803528491" FOLDED="true" ID="ID_677718015" MODIFIED="1556966475707" TEXT="maintenance">
+<node COLOR="#00b439" CREATED="1556803528491" FOLDED="true" ID="ID_677718015" MODIFIED="1557031674080" TEXT="maintenance">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -513,16 +549,18 @@
 </html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1556804162252" ID="ID_920807115" MODIFIED="1556889764463" TEXT="theory">
+<node COLOR="#00b439" CREATED="1556804162252" ID="ID_920807115" MODIFIED="1557031674065" TEXT="theory">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556804176014" ID="ID_1412316719" MODIFIED="1556889777447" TEXT="theoretical">
+<node COLOR="#00b439" CREATED="1556804176014" ID="ID_1412316719" MODIFIED="1557031674065" TEXT="theoretical">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -541,9 +579,10 @@
 </html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1556804481337" FOLDED="true" ID="ID_235850824" MODIFIED="1556966273824" TEXT="object">
+<node COLOR="#00b439" CREATED="1556804481337" FOLDED="true" ID="ID_235850824" MODIFIED="1557031674080" TEXT="object">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -552,25 +591,28 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556804641649" ID="ID_821928628" MODIFIED="1556966273834" TEXT="objective">
+<node COLOR="#00b439" CREATED="1556804641649" ID="ID_821928628" MODIFIED="1557031674080" TEXT="objective">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556804684301" ID="ID_578573984" MODIFIED="1556966273834" TEXT="objection">
+<node COLOR="#00b439" CREATED="1556804684301" ID="ID_578573984" MODIFIED="1557031674080" TEXT="objection">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556804794891" FOLDED="true" ID="ID_1705072766" MODIFIED="1556966273834" TEXT="obligation">
+<node COLOR="#00b439" CREATED="1556804794891" FOLDED="true" ID="ID_1705072766" MODIFIED="1557031674080" TEXT="obligation">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -579,45 +621,50 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556804966996" ID="ID_675656656" MODIFIED="1556966273834" TEXT="oblige">
+<node COLOR="#00b439" CREATED="1556804966996" ID="ID_675656656" MODIFIED="1557031674080" TEXT="oblige">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556805068495" FOLDED="true" ID="ID_422255554" MODIFIED="1556966273834" TEXT="obscure">
+<node COLOR="#00b439" CREATED="1556805068495" FOLDED="true" ID="ID_422255554" MODIFIED="1557031674080" TEXT="obscure">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_cancel"/>
 <icon BUILTIN="button_cancel"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <node COLOR="#990000" CREATED="1556805264713" ID="ID_1401852017" MODIFIED="1556805275730" TEXT="scure = &#x76d6;&#x4e0a;">
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556805308807" ID="ID_1997198355" MODIFIED="1556966273824" TEXT="observation">
+<node COLOR="#00b439" CREATED="1556805308807" ID="ID_1997198355" MODIFIED="1557031674080" TEXT="observation">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556805352627" ID="ID_238143195" MODIFIED="1556966273824" TEXT="observe">
+<node COLOR="#00b439" CREATED="1556805352627" ID="ID_238143195" MODIFIED="1557031674080" TEXT="observe">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556805428746" FOLDED="true" ID="ID_1784723679" MODIFIED="1556966273824" TEXT="obsession">
+<node COLOR="#00b439" CREATED="1556805428746" FOLDED="true" ID="ID_1784723679" MODIFIED="1557031674080" TEXT="obsession">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -626,9 +673,10 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556805576339" FOLDED="true" ID="ID_1790103225" MODIFIED="1556966273824" TEXT="obsolete">
+<node COLOR="#00b439" CREATED="1556805576339" FOLDED="true" ID="ID_1790103225" MODIFIED="1557031674080" TEXT="obsolete">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -637,9 +685,10 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556805675237" FOLDED="true" ID="ID_1775805402" MODIFIED="1556966273824" TEXT="obtain">
+<node COLOR="#00b439" CREATED="1556805675237" FOLDED="true" ID="ID_1775805402" MODIFIED="1557031674080" TEXT="obtain">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -648,9 +697,10 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556805799167" FOLDED="true" ID="ID_1876574444" MODIFIED="1556966273824" TEXT="obvious">
+<node COLOR="#00b439" CREATED="1556805799167" FOLDED="true" ID="ID_1876574444" MODIFIED="1557031674080" TEXT="obvious">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -673,15 +723,17 @@
 </html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1556806785417" ID="ID_1229155439" MODIFIED="1556862886793" TEXT="panel ">
+<node COLOR="#00b439" CREATED="1556806785417" ID="ID_1229155439" MODIFIED="1557031674065" TEXT="panel ">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556806788127" FOLDED="true" ID="ID_982394280" MODIFIED="1556862886795" TEXT="panorama">
+<node COLOR="#00b439" CREATED="1556806788127" FOLDED="true" ID="ID_982394280" MODIFIED="1557031674065" TEXT="panorama">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <node COLOR="#990000" CREATED="1556806853752" ID="ID_144283718" MODIFIED="1556806903722" TEXT="pan- : &#x8868;&quot;&#x5168;&#x90e8;;&#x5e7f;&#x6cdb;&#x7684;&quot; orama: =view &#x770b;;&#x666f;&#x5b98;">
@@ -702,9 +754,10 @@
 </html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1556807160230" FOLDED="true" ID="ID_202453867" MODIFIED="1556965905222" TEXT="qualify">
+<node COLOR="#00b439" CREATED="1556807160230" FOLDED="true" ID="ID_202453867" MODIFIED="1557031674065" TEXT="qualify">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -713,27 +766,30 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556807250686" ID="ID_1820413916" MODIFIED="1556965852975" TEXT="qualification">
+<node COLOR="#00b439" CREATED="1556807250686" ID="ID_1820413916" MODIFIED="1557031674080" TEXT="qualification">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_cancel"/>
 <icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556807273352" ID="ID_1697822002" MODIFIED="1556965895615" TEXT="quality">
+<node COLOR="#00b439" CREATED="1556807273352" ID="ID_1697822002" MODIFIED="1557031674065" TEXT="quality">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_cancel"/>
 <icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556807289852" ID="ID_10547896" MODIFIED="1556965897453" TEXT="qualitative">
+<node COLOR="#00b439" CREATED="1556807289852" ID="ID_10547896" MODIFIED="1557031674065" TEXT="qualitative">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_cancel"/>
 <icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
@@ -751,25 +807,28 @@
 </html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1556807542123" ID="ID_1961003563" MODIFIED="1556965961764" TEXT="safeguard">
+<node COLOR="#00b439" CREATED="1556807542123" ID="ID_1961003563" MODIFIED="1557031674065" TEXT="safeguard">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556807547213" ID="ID_1331051278" MODIFIED="1556965961764" TEXT="safety">
+<node COLOR="#00b439" CREATED="1556807547213" ID="ID_1331051278" MODIFIED="1557031674065" TEXT="safety">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556807723718" FOLDED="true" ID="ID_1317776205" MODIFIED="1556965961764" TEXT="savage">
+<node COLOR="#00b439" CREATED="1556807723718" FOLDED="true" ID="ID_1317776205" MODIFIED="1557031674065" TEXT="savage">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -778,17 +837,19 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556807751386" ID="ID_1639726983" MODIFIED="1556965961764" TEXT="save">
+<node COLOR="#00b439" CREATED="1556807751386" ID="ID_1639726983" MODIFIED="1557031674065" TEXT="save">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556807760172" FOLDED="true" ID="ID_154152126" MODIFIED="1556965961764" TEXT="saving">
+<node COLOR="#00b439" CREATED="1556807760172" FOLDED="true" ID="ID_154152126" MODIFIED="1557031674065" TEXT="saving">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -811,9 +872,10 @@
 </html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1556807928169" FOLDED="true" ID="ID_566838758" MODIFIED="1556965970501" TEXT="scene">
+<node COLOR="#00b439" CREATED="1556807928169" FOLDED="true" ID="ID_566838758" MODIFIED="1557031674065" TEXT="scene">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
@@ -822,9 +884,10 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556807980652" FOLDED="true" ID="ID_1862667990" MODIFIED="1556965914120" TEXT="scenery">
+<node COLOR="#00b439" CREATED="1556807980652" FOLDED="true" ID="ID_1862667990" MODIFIED="1557031674065" TEXT="scenery">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>

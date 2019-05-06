@@ -31,11 +31,12 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556890131967" ID="ID_700683355" MODIFIED="1556965336020" TEXT="talent">
+<node COLOR="#00b439" CREATED="1556890131967" ID="ID_700683355" MODIFIED="1557031716202" TEXT="talent">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 <node COLOR="#00b439" CREATED="1556890225205" ID="ID_712294893" MODIFIED="1556965336020" TEXT="target">
 <edge STYLE="bezier" WIDTH="thin"/>
@@ -43,11 +44,12 @@
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#00b439" CREATED="1556890237574" ID="ID_599756669" MODIFIED="1556965336020" TEXT="taste">
+<node COLOR="#00b439" CREATED="1556890237574" ID="ID_599756669" MODIFIED="1557031716202" TEXT="taste">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_ok"/>
 <icon BUILTIN="button_ok"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 <node COLOR="#00b439" CREATED="1556890417626" ID="ID_752850915" MODIFIED="1556965336020" TEXT="teenager">
 <edge STYLE="bezier" WIDTH="thin"/>
@@ -94,7 +96,7 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1556891254704" FOLDED="true" ID="ID_1981660800" MODIFIED="1556965336020" TEXT="ultimate">
+<node COLOR="#00b439" CREATED="1556891254704" FOLDED="true" ID="ID_1981660800" MODIFIED="1557031772213" TEXT="ultimate">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="button_ok"/>
