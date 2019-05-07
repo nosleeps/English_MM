@@ -179,6 +179,10 @@
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
+<node COLOR="#00b439" CREATED="1557114505391" ID="ID_1008140421" MODIFIED="1557114587955" TEXT="imagine">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node COLOR="#0033ff" CREATED="1557114942881" ID="ID_61726506" MODIFIED="1557115082975" POSITION="left" TEXT="gn-,gnos-,gnor-,know">
 <richcontent TYPE="NOTE"><html>
@@ -256,9 +260,10 @@
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1557115660141" ID="ID_1487720868" MODIFIED="1557115670018" TEXT="massive">
+<node COLOR="#00b439" CREATED="1557115660141" ID="ID_1487720868" MODIFIED="1557197560156" TEXT="massive">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 <node COLOR="#0033ff" CREATED="1557116392942" ID="ID_682598200" MODIFIED="1557116421420" POSITION="right" TEXT="lev">
@@ -287,7 +292,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1557116690810" ID="ID_808018963" MODIFIED="1557116710285" POSITION="left" TEXT="il">
+<node COLOR="#0033ff" CREATED="1557116690810" HGAP="28" ID="ID_808018963" MODIFIED="1557197757917" POSITION="left" TEXT="il" VSHIFT="19">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -300,7 +305,7 @@
 </html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1557116714357" ID="ID_1083511763" MODIFIED="1557116743453" TEXT="illustration">
+<node COLOR="#00b439" CREATED="1557116714357" HGAP="16" ID="ID_1083511763" MODIFIED="1557197754893" TEXT="illustration">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
@@ -426,9 +431,10 @@
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1557119353472" ID="ID_1115807595" MODIFIED="1557119356192" TEXT="offend">
+<node COLOR="#00b439" CREATED="1557119353472" ID="ID_1115807595" MODIFIED="1557197731876" TEXT="offend">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 <node COLOR="#00b439" CREATED="1557119356698" ID="ID_1508239526" MODIFIED="1557119359964" TEXT="offer">
 <edge STYLE="bezier" WIDTH="thin"/>
@@ -600,9 +606,10 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1557119255144" ID="ID_374409179" MODIFIED="1557119279922" TEXT="paralys(z)e">
+<node COLOR="#00b439" CREATED="1557119255144" ID="ID_374409179" MODIFIED="1557197976557" TEXT="paralys(z)e">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 <node COLOR="#00b439" CREATED="1557119293407" ID="ID_1503733992" MODIFIED="1557119296736" TEXT="parallel">
 <edge STYLE="bezier" WIDTH="thin"/>
