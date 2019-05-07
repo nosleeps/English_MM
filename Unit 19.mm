@@ -1,7 +1,8 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#000000" CREATED="1557110584870" ID="ID_1708404196" MODIFIED="1557118002469" TEXT="Unit 19">
+<node COLOR="#000000" CREATED="1557110584870" ID="ID_1708404196" MODIFIED="1557260840763" TEXT="Unit 19">
 <font NAME="SansSerif" SIZE="20"/>
+<hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties"/>
 <node COLOR="#0033ff" CREATED="1557110614781" ID="ID_1509285892" MODIFIED="1557110691418" POSITION="right" TEXT="part,port">
 <richcontent TYPE="NOTE"><html>
@@ -578,7 +579,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1557119232213" ID="ID_1974359827" MODIFIED="1557119241402" POSITION="left" TEXT="para">
+<node COLOR="#0033ff" CREATED="1557119232213" ID="ID_1974359827" MODIFIED="1557260827126" POSITION="left" TEXT="para">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -588,7 +589,8 @@
       &#26049;&#36793;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1557117586497" FOLDED="true" ID="ID_845016555" MODIFIED="1557119229460" TEXT="paragraph">
