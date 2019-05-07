@@ -28,14 +28,14 @@
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1557111316646" FOLDED="true" ID="ID_1580067545" MODIFIED="1557111401157" TEXT="particle">
+<node COLOR="#00b439" CREATED="1557111316646" FOLDED="true" ID="ID_1580067545" MODIFIED="1557156341561" TEXT="particle">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1557111335127" ID="ID_1674815445" MODIFIED="1557111398612" TEXT="-icle &#x540d;&#x8bcd;&#x540e;&#x7f00; &#x8bcd;&#x7ec4; a particle of sense &#x4e00;&#x70b9;&#x5e38;&#x8bc6;">
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1557111479266" FOLDED="true" ID="ID_374386970" MODIFIED="1557111505892" TEXT="participate">
+<node COLOR="#00b439" CREATED="1557111479266" FOLDED="true" ID="ID_374386970" MODIFIED="1557156360558" TEXT="participate">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1557111493533" ID="ID_772749955" MODIFIED="1557111503315" TEXT="cip &#x6293; ate &#x52a8;&#x8bcd;">
@@ -58,7 +58,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1557112471005" ID="ID_794916869" MODIFIED="1557112581046" POSITION="left" TEXT="gen-,gener-,genit">
+<node COLOR="#0033ff" CREATED="1557112471005" ID="ID_794916869" MODIFIED="1557156575217" POSITION="left" TEXT="gen-,gener-,genit">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -162,6 +162,10 @@
 <node COLOR="#0033ff" CREATED="1557114759915" ID="ID_954910549" MODIFIED="1557114798707" POSITION="right" TEXT="imagin">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1557157042636" ID="ID_1169290054" MODIFIED="1557157046417" TEXT="imagine">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 <node COLOR="#00b439" CREATED="1557114817603" ID="ID_1399776984" MODIFIED="1557114827917" TEXT="imaginative">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
